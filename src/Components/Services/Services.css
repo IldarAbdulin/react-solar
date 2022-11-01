@@ -1,0 +1,110 @@
+.services {
+    width: 77%;
+    margin: 0 auto;
+    padding: 150px 0 20px 0;
+}
+.services h2 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    color: #868585;
+}
+.services__items {
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}
+.left-item {
+    padding: 10px 0 0 0;
+}
+.left-item h3 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #303030
+}
+.left-item p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #303030;
+}
+.right-items img{
+    margin: 0 0 0 50px;
+}
+.green-trafic {
+    padding: 100px 0 0 0;
+}
+.about-green-trafic {
+    padding: 20px 0;
+    display: flex;
+}
+.green-trafic__links {
+    padding: 20px 0 0 0 ;
+    display: flex;
+    width: 100%;
+    gap: 20px;
+}
+.green-trafic__links li {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #303030;
+    cursor: pointer;
+    transition: .2s;
+}
+.green-trafic__links li:hover {
+    color: #202020;
+    text-decoration: underline;
+}
+.green-trafic__more-about-it {
+    width: 100%;
+}
+.housewife-blockLOL {
+    display: flex;
+    align-items: center;
+}
+.housewife {
+    display: flex;
+    gap: 0 20px;
+}
+.housewife-title p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #303030;
+}
+.arrows {
+    padding: 70px 0 0 0;
+    display: flex;
+    gap: 0 25px;
+}
+.housewife__more-about-it {
+    padding: 100px 0 0 0;
+    display: flex;
+    gap: 0 40px;
+    flex-wrap: wrap;
+}
+.housewife__more-about-it__item {
+    width: 45%;
+}
+.housewife__more-about-it__item h3 {
+    margin: 0 0 -5px 0;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #303030;
+}
+.housewife__more-about-it__item p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #303030;
+}
+.housewife-blockLOL-papa {
+    width: 44%;
+}
+.housewife__right-img {
+    width: 45%;
+    margin: 0 auto;
+}
